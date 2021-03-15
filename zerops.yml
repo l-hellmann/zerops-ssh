@@ -1,0 +1,7 @@
+# select what technology your build uses
+use: [ ]
+# which commands to run to build
+run:
+  - exit 0
+# which files / folders to deploy after build
+deploy: [ . ]
